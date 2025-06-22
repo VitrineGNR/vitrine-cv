@@ -1,0 +1,13 @@
+streamlit
+pandas
+plotly
+pillow
+reportlab
+openpyxl
+xlsxwriter
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+requests
+python-dotenv
